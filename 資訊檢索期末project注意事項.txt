@@ -1,0 +1,9 @@
+1.python 3.0以上版本。
+
+2.使用PyChame執行程式，並下載相關套件。
+
+3.首次執行時需將註解的部分(特定對話)執行一次，完成chatbot training，詳情請至 https://chatterbot.readthedocs.io/en/stable/ 。
+
+4.jieba斷詞需先下詞庫至特定位置，詳情請至 https://github.com/fxsjy/jieba 。
+
+5.BeautifulSoup相關資訊 https://www.crummy.com/software/BeautifulSoup/bs4/doc/ 。
